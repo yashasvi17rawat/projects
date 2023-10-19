@@ -1,0 +1,72 @@
+body {
+    background-color: rgba(94, 85, 85, 0.236);
+}
+
+#p1 {
+    color: rgba(9, 2, 2, 0.814);
+}
+
+#divr,
+#divp,
+#divs {
+    display: inline;
+    margin: 10px;
+    padding: 0px;
+    cursor: pointer;
+}
+
+
+#divc {
+    display: block;
+    margin: 20px;
+    padding-top: 30px;
+    padding-left: 120px;
+    cursor: pointer;
+
+}
+
+#divc {
+    margin-top: 5px;
+}
+
+#p1 {
+    padding-left: 120px;
+    font-size: 25px;
+    padding-bottom: 10px;
+
+}
+
+#click {
+    padding-left: 145px;
+}
+
+#comp,
+#your,
+#num1,
+#num2 {
+    display: inline;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+#status,
+#score {
+    padding-left: 145px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#s,
+#score {
+    display: inline;
+    padding-left: 145px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+#s {}
+
+#score {
+    padding-left: 10px;
+}

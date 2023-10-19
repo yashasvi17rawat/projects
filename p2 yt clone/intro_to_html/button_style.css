@@ -1,0 +1,59 @@
+#b1 {
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    padding: 10px;
+    cursor: pointer;
+    margin-right: 7px;
+    transition: opacity 0.2s;
+
+}
+
+#b1:hover {
+    /* background-color: rgb(250, 165, 165); */
+    opacity: 0.7;
+}
+
+#b1:active {
+    /* background-color: rgb(252, 191, 191); */
+    opacity: 0.3;
+}
+
+#b2 {
+    color: blue;
+    border-color: blue;
+    border-radius: 2.5px;
+    background-color: white;
+    height: 30px;
+    width: 50px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    margin-right: 5px;
+    transition: background-color 0.15s, color 0.15s;
+}
+
+#b2:hover {
+    background-color: blue;
+    color: white;
+}
+
+#b2:active {
+    opacity: 0.7;
+}
+
+#b3 {
+    color: white;
+    background-color: rgb(83, 179, 248);
+    border-radius: 14px;
+    height: 30px;
+    border: none;
+    width: 70px;
+    cursor: pointer;
+
+}
+
+#b3:hover {
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
+}

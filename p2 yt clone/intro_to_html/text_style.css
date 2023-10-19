@@ -1,0 +1,43 @@
+p {
+    font-family: arial;
+}
+
+.title {
+    font-family: arial;
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 20px;
+    margin-bottom: 5px;
+}
+
+.details {
+    font-family: arial;
+    font-size: 14px;
+    color: grey;
+    margin-top: 0;
+
+}
+
+.author {
+    color: rgb(105, 102, 102);
+}
+
+.text {
+    font-family: arial;
+    width: 300px;
+    color: gray;
+    line-height: 22px;
+
+}
+
+.apple-text {
+    background-color: rgb(245, 61, 61);
+    padding: 15px;
+    text-align: center;
+    color: wheat;
+}
+
+.s:hover {
+    text-decoration: underline;
+}
